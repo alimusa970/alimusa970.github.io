@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from 'Syed M Ali.jpg'
+import logo from './Ali.jpg'
 import './App.css';
 
 function App() {
@@ -8,15 +8,14 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          My name is Syed Musa Ali and I am for sure going to Master React!!!!
+          My name is Syed Musa Ali and I am for sure going to Master React!!!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/alimusa970"
           target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
+          rel="noopener noreferrer">
+           Check Me Out!
         </a>
       </header>
     </div>
